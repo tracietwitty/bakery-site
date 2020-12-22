@@ -1,5 +1,5 @@
 {
-  "name": "travel-site",
+  "name": "bakery-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack serve",
